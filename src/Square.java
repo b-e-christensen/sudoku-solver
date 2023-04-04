@@ -5,7 +5,7 @@ import java.util.Arrays;
 public class Square {
 
     private int value;
-    ArrayList<Integer> possibles = new ArrayList<Integer>();
+    ArrayList<Integer> possibles;
 
     public Square() {
         this(0, new ArrayList<>(Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9)));
