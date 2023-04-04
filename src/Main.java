@@ -1,13 +1,5 @@
 public class Main {
 
-    // isValidInRow
-
-    // isValidInBox
-
-    // possibles
-    // for loop for parallel arrays
-
-    //
 
     public static void main(String[] args) {
         int[][] gridArr = {
